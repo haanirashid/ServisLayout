@@ -119,7 +119,7 @@
 }
 
 .card .img {
-    background-image: url("../images/footwear.png");
+    background-image: url("./images/footwear.png");
     background-size: cover;
     width: 100%;
     height: 240px;
